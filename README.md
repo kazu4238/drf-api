@@ -1,0 +1,1 @@
+Django RESTAPIを利用してを初めて作成しています
